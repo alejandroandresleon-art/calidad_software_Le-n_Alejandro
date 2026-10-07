@@ -1,4 +1,5 @@
 # Calidad de Software
+# Autor: Alejandro Leon
 
 Este repositorio tiene como finalidad documentar y practicar conceptos básicos de calidad de software, con énfasis en la importancia de la validación y la mejora continua de los sistemas.
 
